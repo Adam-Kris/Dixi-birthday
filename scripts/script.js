@@ -1,6 +1,6 @@
 // configuration
 var quote = "I wish your birthday is the happiest..."
-var birthdaywishee = "Happy Birthday, Dear Dixi!"
+var birthdaywishee = "Happy Birthday, Dixi!"
 var birthdaywisher = "- Xiao Hua"
 var tip = "点击屏幕有惊喜~"
 if (quote.length > 50) {
